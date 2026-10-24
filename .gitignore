@@ -1,0 +1,19 @@
+# Build output
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE and editor files
+.vscode/
+.settings/
+*.launch
+
+# OS-generated files
+.DS_Store
+Thumbs.db
