@@ -118,6 +118,6 @@ Understanding startup code helps in learning bare-metal programming, firmware in
 ## Future Improvements
 
 - Trace Reset_Handler execution using GDB.
-- Inspect .data and .bss initialization.
+- Inspect .data and .bss initialization
 - Analyze the startup assembly and linker symbols.
 - Compare custom startup code with STM32 HAL startup files.
